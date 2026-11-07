@@ -1,0 +1,9 @@
+{
+  "name": "Fine UK – British Online Marketplace & Communication Platform",
+  "description": "A secure British online marketplace connecting buyers, independent sellers and registered charities across the United Kingdom with integrated messaging, 8-digit dialpad, VAT compliance and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
